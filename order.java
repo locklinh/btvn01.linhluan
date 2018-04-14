@@ -10,7 +10,7 @@ public class order {
 	}
 
 	void confirm() {
-		
+		System.out.print(date+""+number);
 	}
 
 	void close() {
